@@ -1,4 +1,4 @@
-# JetEngine - Highlight post by date
+# JetEngine - Highlight post by scheduled date
 
 Among all the query items, finds posts whose date in the meta field is greater than the current one and makes it possible to style. Something like this:
 
@@ -9,6 +9,7 @@ Plugin doesn't sort posts by date itself, it only adding class to Listing Grid i
 ## Setup
 - Download and intall plugin,
 - Define configuration constants in the end of functions.php file of your active theme,
+- Set style for scheduled posts in Listing Grid widget,
 
 
 Configuration example:
