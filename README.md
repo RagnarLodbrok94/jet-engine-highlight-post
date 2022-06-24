@@ -1,4 +1,4 @@
-# JetEngine - break listing by months.
+# JetEngine - Highlight post by date
 
 Among all the query items, finds posts whose date in the meta field is greater than the current one and makes it possible to style. Something like this:
 
